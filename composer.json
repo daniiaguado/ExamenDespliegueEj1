@@ -11,5 +11,7 @@
             "email": "daagro@alumnatflorida.es"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
 }
