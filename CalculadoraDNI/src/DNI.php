@@ -27,7 +27,7 @@ class DNI {
 
     public function getDNIConLetra() {
         return $this->dniConLetra;
-        echo "hola";
+        
     }
 
 }
