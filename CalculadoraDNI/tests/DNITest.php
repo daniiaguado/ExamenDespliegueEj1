@@ -1,8 +1,7 @@
 <?php
 
-use PHPUnit\Framework\TestCase;
-
-class DNITest extends TestCase
+use src\DNI;
+class DNITest extends DNI
 {
     public function testExample()
     {
