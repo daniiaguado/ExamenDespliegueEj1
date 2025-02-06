@@ -2,7 +2,7 @@
     "name": "daniel/ejercicio1",
     "autoload": {
         "psr-4": {
-            "Daniel\\Ejercicio1\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
