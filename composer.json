@@ -1,0 +1,15 @@
+{
+    "name": "daniel/ejercicio1",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\Ejercicio1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daagro",
+            "email": "daagro@alumnatflorida.es"
+        }
+    ],
+    "require": {}
+}
